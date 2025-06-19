@@ -1,0 +1,6 @@
+[submodule "fit-fighters-backend"]
+	path = fit-fighters-backend
+	url = git@github.com:davidampapa/fit-fighters-backend.git
+[submodule "fit-fighters-frontend"]
+	path = fit-fighters-frontend
+	url = git@github.com:davidampapa/fit-fighters-frontend.git
